@@ -6,4 +6,3 @@
 *	Classification Goal: Executed a predictive analytics project to determine iris flower species from key features; attained a precision rate of 98%, significantly improving botanical research efficiency and data accuracy
 *	Techniques: Machine learning algorithms like Logistic Regression, Random Forest, Decision Tree Classifier, etc
 Alt-H1
-======
