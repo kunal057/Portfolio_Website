@@ -12,7 +12,7 @@
 *	Data Cleaning: Addressed 100% missing values, formatted data types, and created calculated columns/measures.
 *	Advanced Analytics: Analyzed sales, revenue, and profit patterns, enabling data-driven decisions with real-time access.
 
-# [Texture Tales case study]
+# [Texture Tales Case Study]
 * Examined the Texture Tales Clothing Company dataset using MySQL, analyzing 10,000+ records.
 * Generated a comprehensive financial report using 15+ SQL functions.
 * Analyzed sales performance, market trends, and customer preferences, leading to a 20% increase in data validity.
