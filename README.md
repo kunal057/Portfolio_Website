@@ -11,6 +11,7 @@
 *	Developed Dashboard: Engineered a dynamic Power BI dashboard, equipping sales and management teams with crucial, data-driven insights; boosted sales forecasting accuracy by 30% and enhanced strategic planning efficiency.
 *	Data Cleaning: Addressed 100% missing values, formatted data types, and created calculated columns/measures.
 *	Advanced Analytics: Analyzed sales, revenue, and profit patterns, enabling data-driven decisions with real-time access.
+***
 
 # [Project 3: Texture Tales Case Study]()
 * Examined the Texture Tales Clothing Company dataset using MySQL, analyzing 10,000+ records.
@@ -18,5 +19,5 @@
 * Analyzed sales performance, market trends, and customer preferences, leading to a 20% increase in data validity.
 * Forecasted demand and identified growth opportunities, contributing to a projected 25% increase in profitability.
 * Techniques: MYSQL, Aggregate Functions,where clause, group by clause, having clause etc.
-
+***
 
