@@ -5,8 +5,7 @@
 *	Classes: Three classes – Iris-setosa, Iris-versicolor, Iris-virginica.
 *	Classification Goal: Executed a predictive analytics project to determine iris flower species from key features; attained a precision rate of 98%, significantly improving botanical research efficiency and data accuracy
 *	Techniques: Machine learning algorithms like Logistic Regression, Random Forest, Decision Tree Classifier, etc
-Alt-H1
-
+***
 # [Project 2: Axon Sales Analysis](https://github.com/kunal057/AXONSALES-)
 *	Integrated MySQL to Power BI: Cleansed and transformed data for strategic analysis.
 *	Developed Dashboard: Engineered a dynamic Power BI dashboard, equipping sales and management teams with crucial, data-driven insights; boosted sales forecasting accuracy by 30% and enhanced strategic planning efficiency.
